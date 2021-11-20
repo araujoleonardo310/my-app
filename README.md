@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+<img src="" alt="capa de desmostração aprendendo React" title="Leonardo Araújo está aprendendo React">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
